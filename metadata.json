@@ -1,0 +1,5 @@
+{
+  "name": "AeroTanker Calculator",
+  "description": "A fuel tankering and weight calculator for A320 and A321 aircraft (CEO & NEO variants), allowing pilots and dispatchers to compute Tank Allowed and ZFW limits based on sector inputs.",
+  "requestFramePermissions": []
+}
